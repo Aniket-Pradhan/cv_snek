@@ -42,6 +42,17 @@ snek/
 |   |   <trained models...>
 ```
 
+## GUI
+
+We also provide a Streamlit GUI to help classify the images. To run that, simply run the app server using streamlit (which would have been installed from the requirements.txt automatically).
+
+```bash
+cd streamlit_app
+streamlit run app.py
+```
+
+You would also need the pretrained model and add it to the `models/` directory. You can download the pre-trained efficientnet-b5 model from [here](https://drive.google.com/file/d/1vYPo45qx_n6Imv-Eq5KX26RQbUllZIcm/view?usp=sharing).
+
 ## Scripts
 
 We have made multiple scripts. Their descriptions are given below:
