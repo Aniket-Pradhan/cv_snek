@@ -51,7 +51,7 @@ cd streamlit_app
 streamlit run app.py
 ```
 
-You would also need the pretrained model and add it to the `models/` directory. You can download the pre-trained efficientnet-b5 model from here.
+You would also need the pretrained model and add it to the `models/` directory. You can download the pre-trained efficientnet-b5 model from [here](https://drive.google.com/file/d/1vYPo45qx_n6Imv-Eq5KX26RQbUllZIcm/view?usp=sharing).
 
 ## Scripts
 
