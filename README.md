@@ -69,6 +69,10 @@ We have made multiple scripts. Their descriptions are given below:
 10. remove_corrupted.py: Remove/clean the dataset of corrupted images.
 11. train_efficientnet.py: Train an efficientnet model using the provided dataset.
 
+## Notebooks
+
+We have used Google Colab for training our models and their notebooks can be found in the `notebooks` directory. They are the same scripts from `src` directory used for model extraction and classification
+
 ## Authors
 
 1. Aayush Gupta
